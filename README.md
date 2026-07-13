@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hello !! 👋
+
+I'm Amit and I'm currently an undergraduate at Case Western Reserve University. I'm studying Electrical Engineering with a focus in PCB design, digital systems, and Analog IC Design.
+
+The main tools I use in my workflow are KiCad, LTspice, Python, C and MATLAB.
+
+I spend a lot of time working on research and some engineering contracts, but one of my favorites is my FIR filter project.
+
+If you have any questions, feel free to reach out!
 
 <!--
 **amitthusay/amitthusay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
