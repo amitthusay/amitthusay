@@ -1,24 +1,39 @@
-## Hello !! 👋
+# Amit Thusay
 
-I'm Amit and I'm currently an undergraduate at Case Western Reserve University. I'm studying Electrical Engineering with a focus in PCB design, digital systems, and Analog IC Design.
+I'm an electrical engineering undergraduate at Case Western Reserve University, focused on PCB design, digital systems, and analog IC design. I spend much of my time working on research and engineering contracts.
 
-The main tools I use in my workflow are KiCad, LTspice, Python, C and MATLAB.
+## Focus and tools
 
-I spend a lot of time working on research and some engineering contracts, but one of my favorites is my FIR filter project.
+- **Focus:** PCB design, digital systems, and analog IC design
+- **Tools:** KiCad, LTspice, Python, C, and MATLAB
 
-If you have any questions, feel free to reach out!
+## Selected engineering work
 
-<!--
-**amitthusay/amitthusay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amitthusay/ultrasonic-nerve-stimulator">Ultrasonic Nerve Stimulator</a></h3>
+      <p>A focused-ultrasound stimulation platform with multi-channel PCB prototypes and real-time controller input.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amitthusay/fpga-fir-filter">FPGA FIR Filter</a></h3>
+      <p>A MATLAB-to-FPGA FIR filter workflow covering coefficient design, HDL generation, simulation, and verification. This remains one of my favorite projects.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amitthusay/multi-camera-trigger-controller">Multi-Camera Trigger Controller</a></h3>
+      <p>An ESP32-S3 controller and buffer-amplifier PCB for reliable, asynchronous triggering across a scalable camera system.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/amitthusay/haptic-switch-adapted-toys">Haptic Switch-Adapted Toys</a></h3>
+      <p>An accessible toy interface that adds haptic feedback for children with sensory and motor impairments.</p>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+## Connect
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Portfolio](https://amitthusay-personal-site.vercel.app/) · [Email](mailto:amt272@case.edu) · [LinkedIn](https://www.linkedin.com/in/amit-thusay-577209203/)
+
+If you have questions about my work, feel free to reach out.
