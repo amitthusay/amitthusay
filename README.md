@@ -2,7 +2,7 @@
 
 </div>
 
-Hi, I'm Amit
+## Hi, I'm Amit
 
 I'm an electrical engineering undergraduate at Case Western Reserve University focused on PCB design, digital systems, and analog IC design. I spend much of my time working on research and engineering contracts. In my free time I love making neopolitan-style pizza, brewing espresso, and powerlifting.
 
