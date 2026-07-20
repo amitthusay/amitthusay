@@ -11,12 +11,14 @@ Feel free to shoot me an [email](mailto:amt272@case.edu) about anything! I'm als
 ## My tools/hardware:
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=analogdevices&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white)
-![Simulink and HDL Coder](https://img.shields.io/badge/Simulink_%2B_HDL_Coder-EA7600?style=for-the-badge&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-5C2D91?style=for-the-badge&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEzLjUgMSA0IDEzLjVoN0w5LjggMjMgMjAgOS41aC03eiIvPjwvc3ZnPg%3D%3D)
+![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBkPSJNMiAxNWMyLjUtOCA0LjUgNSA3LTFzNC04IDYtMiA0IDUgNy0yIi8%2BPC9zdmc%2B)
+![Simulink and HDL Coder](https://img.shields.io/badge/Simulink_%2B_HDL_Coder-EA7600?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHJlY3QgeD0iMiIgeT0iNyIgd2lkdGg9IjUiIGhlaWdodD0iNSIgcng9IjEiLz48cmVjdCB4PSIxNyIgeT0iMTIiIHdpZHRoPSI1IiBoZWlnaHQ9IjUiIHJ4PSIxIi8%2BPHBhdGggZD0iTTcgOS41aDV2NWg1bS04LTIgMyAyLTMgMiIvPjwvZz48L3N2Zz4%3D)
+![Verilog](https://img.shields.io/badge/Verilog-5C2D91?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPGcgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI%2BPHJlY3QgeD0iNiIgeT0iNiIgd2lkdGg9IjEyIiBoZWlnaHQ9IjEyIiByeD0iMiIvPjxwYXRoIGQ9Ik05IDJ2NG02LTR2NE05IDE4djRtNi00djRNMiA5aDRtLTQgNmg0bTEyLTZoNG0tNCA2aDQiLz48L2c%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0ibTkgMTAgMyA2IDMtNmgtMmwtMSAyLjZMMTEgMTB6Ii8%2BPC9zdmc%2B)
 ![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-F5A623?style=for-the-badge&logo=amd&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arm](https://img.shields.io/badge/Arm-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
