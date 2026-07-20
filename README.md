@@ -1,12 +1,10 @@
 <div align="center">
 
-Hi, I'm Amit
+</div>
+
+# Amit Thusay
 
 I'm an electrical engineering undergraduate at Case Western Reserve University, focused on PCB design, digital systems, and analog IC design. I spend much of my time working on research and engineering contracts.
-
-[Portfolio](https://amitthusay-personal-site.vercel.app/) &middot; [LinkedIn](https://www.linkedin.com/in/amit-thusay-577209203/) &middot; [Email](mailto:amt272@case.edu)
-
-</div>
 
 ## My tools/hardware
 
@@ -92,3 +90,5 @@ I'm an electrical engineering undergraduate at Case Western Reserve University, 
     </td>
   </tr>
 </table>
+
+[Portfolio](https://amitthusay-personal-site.vercel.app/) &middot; [LinkedIn](https://www.linkedin.com/in/amit-thusay-577209203/) &middot; [Email](mailto:amt272@case.edu)
