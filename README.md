@@ -2,15 +2,13 @@
 
 # Hi, I'm Amit Thusay
 
-**Electrical engineering student designing PCBs, embedded systems, FPGA/DSP pipelines, and analog hardware.**
-
-[Portfolio](https://amitthusay-personal-site.vercel.app/) &middot; [LinkedIn](https://www.linkedin.com/in/amit-thusay-577209203/) &middot; [Email](mailto:amt272@case.edu)
-
 </div>
 
 I'm an electrical engineering undergraduate at Case Western Reserve University, focused on PCB design, digital systems, and analog IC design. I spend much of my time working on research and engineering contracts.
 
-## Tech stack
+[Portfolio](https://amitthusay-personal-site.vercel.app/) &middot; [LinkedIn](https://www.linkedin.com/in/amit-thusay-577209203/) &middot; [Email](mailto:amt272@case.edu)
+
+## My tools/hardware
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=analogdevices&logoColor=white)
@@ -26,7 +24,7 @@ I'm an electrical engineering undergraduate at Case Western Reserve University, 
 
 ---
 
-## Project highlights
+## Selected Projects:
 
 <table>
   <tr>
