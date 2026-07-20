@@ -8,26 +8,16 @@
 
 </div>
 
-I'm an electrical engineering undergraduate at Case Western Reserve University. I design systems from architecture and simulation through PCB layout, firmware, FPGA implementation, and verification, with experience spanning research and engineering contracts.
+I'm an electrical engineering undergraduate at Case Western Reserve University, focused on PCB design, digital systems, and analog IC design. I spend much of my time working on research and engineering contracts.
 
-## Engineering stack
-
-Tools I use to move hardware from an idea to an implemented and verified system.
-
-**PCB and simulation**
+## Tech stack
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=analogdevices&logoColor=white)
-
-**FPGA and DSP**
-
 ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink and HDL Coder](https://img.shields.io/badge/Simulink_%2B_HDL_Coder-EA7600?style=for-the-badge&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-5C2D91?style=for-the-badge&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-F5A623?style=for-the-badge&logo=amd&logoColor=white)
-
-**Embedded and automation**
-
+![Xilinx Vivado](https://img.shields.io/badge/Xilinx_Vivado-F5A623?style=for-the-badge&logo=amd&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,24 +34,23 @@ Tools I use to move hardware from an idea to an implemented and verified system.
       <h3>Steerable ultrasonic nerve stimulator</h3>
       <p>Designed the four-layer Rev3 hardware after independently verifying all eight GaN half-bridge/RLC output channels near 1.36 MHz, building on earlier real-time array control.</p>
       <p>
-        <img alt="Eight channels verified" src="https://img.shields.io/badge/8_channels-verified-2ea44f?style=flat-square">
-        <img alt="Four-layer PCB" src="https://img.shields.io/badge/PCB-4_layer-314CB0?style=flat-square">
-        <img alt="SOURCE funded" src="https://img.shields.io/badge/SOURCE-funded-8250df?style=flat-square">
+        <img alt="KiCad" src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white">
+        <img alt="JLCPCB" src="https://img.shields.io/badge/JLCPCB-13A3A5?style=flat-square&logo=jlcpcb&logoColor=white">
+        <img alt="Oscilloscope" src="https://img.shields.io/badge/Oscilloscope-B85C00?style=flat-square&logoColor=white">
+        <img alt="Status: In Progress" src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square">
       </p>
-      <a href="https://amitthusay-personal-site.vercel.app/projects/suns/">Case study &rarr;</a>
-      &nbsp;&middot;&nbsp;
       <a href="https://github.com/amitthusay/ultrasonic-nerve-stimulator">Repository &rarr;</a>
     </td>
     <td width="50%" valign="top">
       <h3>Fixed-point FPGA FIR filter</h3>
       <p>Built a 21-tap, 16-bit fixed-point 50 kHz low-pass filter workflow from MATLAB and HDL Coder to synthesizable Verilog, Vivado simulation, and post-simulation checks.</p>
       <p>
-        <img alt="50 kilohertz low-pass filter" src="https://img.shields.io/badge/Low--pass-50_kHz-0969da?style=flat-square">
-        <img alt="21 taps" src="https://img.shields.io/badge/FIR-21_taps-5C2D91?style=flat-square">
-        <img alt="Three stimulus paths" src="https://img.shields.io/badge/Stimulus_paths-3-2ea44f?style=flat-square">
+        <img alt="Xilinx Vivado" src="https://img.shields.io/badge/Xilinx_Vivado-F5A623?style=flat-square&logo=amd&logoColor=white">
+        <img alt="Verilog" src="https://img.shields.io/badge/Verilog-5C2D91?style=flat-square&logoColor=white">
+        <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white">
+        <img alt="Simulink and HDL Coder" src="https://img.shields.io/badge/Simulink_%2B_HDL_Coder-EA7600?style=flat-square&logoColor=white">
+        <img alt="Status: In Progress" src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square">
       </p>
-      <a href="https://amitthusay-personal-site.vercel.app/projects/fpga_fir_filter/">Case study &rarr;</a>
-      &nbsp;&middot;&nbsp;
       <a href="https://github.com/amitthusay/fpga-fir-filter">Repository &rarr;</a>
     </td>
   </tr>
@@ -70,24 +59,22 @@ Tools I use to move hardware from an idea to an implemented and verified system.
       <h3>OpsiClear multi-camera trigger controller</h3>
       <p>Designed the system architecture, schematic, and two-layer Rev F PCB. Its ESP32-S3 trigger path, level translation, and buffered BNC outputs were simulation-backed and demonstrated with the camera array.</p>
       <p>
-        <img alt="Eight PWM signals" src="https://img.shields.io/badge/PWM_signals-8-E7352C?style=flat-square">
-        <img alt="Four buffered BNC outputs" src="https://img.shields.io/badge/BNC_outputs-4-314CB0?style=flat-square">
-        <img alt="Bench validated" src="https://img.shields.io/badge/Bench-validated-2ea44f?style=flat-square">
+        <img alt="KiCad" src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white">
+        <img alt="LTspice" src="https://img.shields.io/badge/LTspice-900028?style=flat-square&logo=analogdevices&logoColor=white">
+        <img alt="ESP32-S3" src="https://img.shields.io/badge/ESP32--S3-E7352C?style=flat-square&logo=espressif&logoColor=white">
+        <img alt="Status: Bench Validated" src="https://img.shields.io/badge/Status-Bench_Validated-2ea44f?style=flat-square">
       </p>
-      <a href="https://amitthusay-personal-site.vercel.app/projects/buffer_amplifier/">Case study &rarr;</a>
-      &nbsp;&middot;&nbsp;
       <a href="https://github.com/amitthusay/multi-camera-trigger-controller">Repository &rarr;</a>
     </td>
     <td width="50%" valign="top">
       <h3>Haptic-enabled adapted toys</h3>
       <p>Built and presented an ESP32 haptic prototype to ReplayForKids, then designed a custom driver and signal-conditioning PCB and button enclosure for switch-adapted toys.</p>
       <p>
-        <img alt="ESP32 prototype" src="https://img.shields.io/badge/ESP32-prototype-E7352C?style=flat-square">
-        <img alt="Custom haptic PCB" src="https://img.shields.io/badge/Haptic_PCB-custom-314CB0?style=flat-square">
-        <img alt="Accessible design" src="https://img.shields.io/badge/Design-accessible-8250df?style=flat-square">
+        <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white">
+        <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white">
+        <img alt="Oscilloscope" src="https://img.shields.io/badge/Oscilloscope-B85C00?style=flat-square&logoColor=white">
+        <img alt="Status: Complete" src="https://img.shields.io/badge/Status-Complete-2ea44f?style=flat-square">
       </p>
-      <a href="https://amitthusay-personal-site.vercel.app/projects/haptic_adapted_toys/">Case study &rarr;</a>
-      &nbsp;&middot;&nbsp;
       <a href="https://github.com/amitthusay/haptic-switch-adapted-toys">Repository &rarr;</a>
     </td>
   </tr>
@@ -107,5 +94,3 @@ Tools I use to move hardware from an idea to an implemented and verified system.
     </td>
   </tr>
 </table>
-
-<sub>Language composition audited July 19, 2026 from GitHub-detected source bytes across the public project repositories. It does not represent KiCad, LTspice, images, or other hardware-design assets.</sub>
