@@ -2,9 +2,11 @@
 
 </div>
 
-# Amit Thusay
+Hi, I'm Amit
 
-I'm an electrical engineering undergraduate at Case Western Reserve University, focused on PCB design, digital systems, and analog IC design. I spend much of my time working on research and engineering contracts.
+I'm an electrical engineering undergraduate at Case Western Reserve University focused on PCB design, digital systems, and analog IC design. I spend much of my time working on research and engineering contracts. In my free time I love making neopolitan-style pizza, brewing espresso, and powerlifting.
+
+Feel free to shoot me an [email](mailto:amt272@case.edu) about anything! I'm also an independent electronics contractor, so feel free to reach out about special inquiries.
 
 ## My tools/hardware
 
@@ -90,5 +92,3 @@ I'm an electrical engineering undergraduate at Case Western Reserve University, 
     </td>
   </tr>
 </table>
-
-[Portfolio](https://amitthusay-personal-site.vercel.app/) &middot; [LinkedIn](https://www.linkedin.com/in/amit-thusay-577209203/) &middot; [Email](mailto:amt272@case.edu)
