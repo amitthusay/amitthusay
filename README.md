@@ -8,7 +8,7 @@ I'm an electrical engineering undergraduate at Case Western Reserve University f
 
 Feel free to shoot me an [email](mailto:amt272@case.edu) about anything! I'm also an independent electronics contractor, so feel free to reach out about special inquiries.
 
-## My tools/hardware
+## My tools/hardware:
 
 ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-900028?style=for-the-badge&logo=analogdevices&logoColor=white)
@@ -79,16 +79,3 @@ Feel free to shoot me an [email](mailto:amt272@case.edu) about anything! I'm als
 </table>
 
 ---
-
-## GitHub stats
-
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <img alt="Amit Thusay's public GitHub statistics" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amitthusay&amp;theme=github_dark" width="340">
-    </td>
-    <td align="center" valign="middle">
-      <img alt="Audited composition of Amit Thusay's public project repositories: Python 38.2 percent, Verilog 35.3 percent, MATLAB 20.8 percent, and PowerShell 5.7 percent" src="./github-language-composition.svg" width="340">
-    </td>
-  </tr>
-</table>
